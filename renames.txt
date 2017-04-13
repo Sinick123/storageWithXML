@@ -1,0 +1,8 @@
+﻿Configuration.xml-->Configuration.xml
+Catalogs\Справочник1.xml-->Catalogs\Справочник1.xml
+Catalogs\Справочник1\Forms\ФормаСписка.xml-->Catalogs\Справочник1\Forms\ФормаСписка.xml
+Catalogs\Справочник1\Forms\ФормаЭлемента.xml-->Catalogs\Справочник1\Forms\ФормаЭлемента.xml
+Catalogs\Справочник1\Forms\ФормаСписка\Ext\Form.xml-->Catalogs\Справочник1\Forms\ФормаСписка\Ext\Form.xml
+Catalogs\Справочник1\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Справочник1\Forms\ФормаЭлемента\Ext\Form.xml
+Documents\Документ1.xml-->Documents\Документ1.xml
+Languages\Русский.xml-->Languages\Русский.xml
