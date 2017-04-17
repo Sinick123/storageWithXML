@@ -10,4 +10,6 @@ Catalogs\Справочник2\Forms\ФормаЭлемента.xml-->Catalogs\�
 Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form.xml
 Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form\Module.bsl-->Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form\Module.bsl
 Documents\Документ1.xml-->Documents\Документ1.xml
+Documents\Документ2.xml-->Documents\Документ2.xml
+Documents\Документ2\Ext\ObjectModule.bsl-->Documents\Документ2\Ext\ObjectModule.bsl
 Languages\Русский.xml-->Languages\Русский.xml
